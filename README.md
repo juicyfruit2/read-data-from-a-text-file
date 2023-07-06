@@ -1,6 +1,6 @@
 # read-data-from-a-text-file
 
-= Write a program that reads the data from the text file called DOB.txt and prints
+- Write a program that reads the data from the text file called DOB.txt and prints
 - it out in two different sections in the format displayed below:
 - Name
 - Orville Wright
